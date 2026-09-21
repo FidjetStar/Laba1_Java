@@ -1,4 +1,4 @@
-<img width="1032" height="118" alt="image" src="https://github.com/user-attachments/assets/231c138c-08b9-4d4d-9c97-02d581d5ec88" />
+
 # ПРОЦЕДУРНОЕ ПРОГРАММИРОВАНИЕ ЛАБОРАТОРНАЯ РАБОТА №1
 
 # Рисков Владимир ИТ-13
