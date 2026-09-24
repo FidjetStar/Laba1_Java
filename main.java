@@ -206,7 +206,8 @@ public class Main {
                 int value = sc.nextInt();
                 sc.nextLine();
                 return value;
-            } else {
+            }
+            else {
                 System.out.print("Ошибка: нужно целое число. Повторите ввод: ");
                 sc.nextLine();
             }
